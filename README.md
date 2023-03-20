@@ -9,5 +9,7 @@ Tools and technologies: Git, Jupyter Notebook, Tableau, AWS
 
 📫 Contact Me
 Email: ashish.ashi6388@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/ashish-khobragade-6237181a7/
+
 Feel free to reach out to me for any project collaborations or discussions related to data science. Let's connect and learn together!
