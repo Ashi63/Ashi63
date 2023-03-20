@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there! 👋 I'm Ashish Khobragade, 
+Data Scientist with 1 years of experience in data science field. I am passionate about using data to drive insights and solve real-world problems.
 
-<!--
-**Ashi63/Ashi63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Skills
+Programming languages: Python, R, SQL
+Data analysis and visualization: Pandas, Matplotlib, Seaborn
+Machine learning: Scikit-learn, TensorFlow, Keras
+Tools and technologies: Git, Jupyter Notebook, Tableau, AWS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact Me
+Email: ashish.ashi6388@gmail.com
+LinkedIn: https://www.linkedin.com/in/ashish-khobragade-6237181a7/
+Feel free to reach out to me for any project collaborations or discussions related to data science. Let's connect and learn together!
