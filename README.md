@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Ashish Khobragade, 
 
-Data Scientist with 1 years of experience in data science field. I am passionate about using data to drive insights and solve real-world problems.
+Data Scientist with 2 years of experience in data science field. I am passionate about using data to drive insights and solve real-world problems.
 
 🌱 Skills
 
