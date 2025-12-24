@@ -4,13 +4,12 @@ Business Analyst with 5+ years of combined experience in insurance and fintech d
 
 🌱 Skills
 
-Programming languages: Python, R, SQL
+•	Business Analysis Tools: JIRA, Confluence, Miro, Whimsical, PlantUML, Visio. 
+•	 Methodologies: Agile, Scrum, SDLC, Process Mapping, Requirement Elicitation
+•	Documentation: BRD, FRD, SRS, UAT Scripts, MOM, User Stories, Acceptance Criteria
+•	Technical Skills: MySQL, Python, FastAPI, AWS (S3, Lambda, EC2), Postman, Swagger 
+•	AI Skills: Machine Learning, Gen AI, Agentic AI
 
-Data analysis and visualization: Pandas, Matplotlib, Seaborn
-
-Machine learning: Scikit-learn, TensorFlow, Keras
-
-Tools and technologies: Git, Jupyter Notebook, Tableau, AWS
 
 📫 Contact Me
 
