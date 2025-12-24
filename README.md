@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Ashish Khobragade, 
 
-Data Scientist with 2 years of experience in data science field. I am passionate about using data to drive insights and solve real-world problems.
+Business Analyst with 5+ years of combined experience in insurance and fintech domains, specializing in digital transformation, process automation, and AI-driven enterprise solutions. Skilled in requirement gathering, stakeholder management, and end-to-end project delivery across global clients (India & Mexico). Proven track record in bridging business needs with technical execution to deliver scalable, user-centric products.
 
 🌱 Skills
 
