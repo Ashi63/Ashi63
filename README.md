@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Ashish Khobragade, 
 
-Business Analyst with 5+ years of combined experience in insurance and fintech domains, specializing in digital transformation, process automation, and AI-driven enterprise solutions. Skilled in requirement gathering, stakeholder management, and end-to-end project delivery across global clients (India & Mexico). Proven track record in bridging business needs with technical execution to deliver scalable, user-centric products.
+Technical Business Analyst with 6+ years of combined experience in insurance and fintech domains, specializing in digital transformation, process automation, and AI-driven enterprise solutions. Skilled in requirement gathering, stakeholder management, and end-to-end project delivery across global clients (India & Mexico). Proven track record in bridging business needs with technical execution to deliver scalable, user-centric products.
 
 🌱 Skills
 
